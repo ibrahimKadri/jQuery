@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#progress{
+    height: 15px;
+    background: rebeccapurple;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+p{
+    font-family: cursive;
+    font-size: 4vh;
+    width: 70%;
+    margin: auto;
+    margin-top: 30px;
+}
