@@ -9,6 +9,9 @@ body{
     top: 0;
     left: 0;
 }
+h1{
+    width:70%;
+    margin:auto;
 p{
     font-family: cursive;
     font-size: 4vh;
